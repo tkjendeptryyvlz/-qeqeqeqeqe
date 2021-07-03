@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'heyyy! chào người anh em tôi thấy bạn có vẻ hơi bị sờ chét nhỡ',
     introDesc: `còn vài ngày nữa đến kì thi có thể nói là quan trọng nhất trong thời đi học 😚😚
-    nên là tôi biết bạn có vẻ áp lức lắm😘`
+    nên là tôi biết bạn có vẻ áp lức lắm😘',
     btnIntro: 'mình muốn nói với bạn là ^^!',
     title: 'hãy tiếp tục cho dù kết quả như thế nào đi nữa bạn đã cố gắn hết sức rồi  😙',
     desc: 'cố lên bạn tôi đừng suy nghĩ phức tạp hóa vấn đề lên nhé 😙',
