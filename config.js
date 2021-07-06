@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'đừng suy nghĩ mõi thứ phức tạp lên nữa nhé người anh em ',
     desc: 'hay cố gắn hết sức cho dù kết quả như nào vì đó là điều mà mình đã làm hết sức rồi',
     btnYes: 'mai thi tốt nhaaa <3',
-    btnNo: 'tao học tủ ><',
+    btnNo: 'tao học tủ ^^',
     question:'cố lên người anh em thi xong chung ta làm 1 cái hẹn nào kkk',
     btnReply: 'hehe',
     reply: 'làm nhẹ cái hẹn với nhau đừng có mà chuồn đấy nhé bạn tôi',
